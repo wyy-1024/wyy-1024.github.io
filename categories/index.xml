@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on WYY Blog</title>
+    <link>https://wyy-1024.github.io.com/categories/</link>
+    <description>Recent content in Categories on WYY Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ch-simplified</language>
+    <atom:link href="https://wyy-1024.github.io.com/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
